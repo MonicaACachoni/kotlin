@@ -1,0 +1,14 @@
+
+Malha com estações indexadas de 0 a n-1.
+
+linha 1: n (int)
+linhas seguintes: estacao (int) estacao (int) distancia (int)
+
+
+
+Trem
+
+cada linha: nome do trem (string) estacao 1 do trecho onde está o tem (int) estacao 2 do trecho onde está o tem (int) distância do trem da estacao 1 (int) estacao destino do trem (int) velocidade do trem (int) horario de saida da estacao de origem (datetime) custo de parar (por unidade de tempo?)
+ 
+
+amarelo 1 2 33 5 2 2018-06-15T10:44:00 12

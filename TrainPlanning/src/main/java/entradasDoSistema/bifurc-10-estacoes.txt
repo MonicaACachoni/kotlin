@@ -1,0 +1,13 @@
+1 Campinas 2
+2 Americana 2
+3 Paulinha 2
+4 Sao-Paulo 2
+5 Pindamonhangaba 2
+6 Tatui 3
+7 Piracicaba 4
+8 Parati 3
+9 Sao-Joao 2
+10 Tonga 3
+11 Blabla 2
+12 ABC 2
+
